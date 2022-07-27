@@ -4,7 +4,7 @@
   Inspired from Sektor7's "Malware Essentials Course"
   As of today, it has 0/26 detections at antiscan.me
   
-  By M4st3rm1nd
+  By s4nsec
 */
 #define _CRT_SECURE_NO_WARNINGS
 #include <windows.h>
